@@ -15,9 +15,17 @@ As of AMEX Default prediction of Kaggle in 2022 ([link1](https://www.kaggle.com/
 
 ## Competitions
 ### [Kaggle](https://www.kaggle.com/)
-- [AMEX DEFAULT PREDICTION](https://www.kaggle.com/competitions/amex-default-prediction) ➡️ [Notebook]()
+- AMEX DEFAULT PREDICTION
+    - [Description](https://www.kaggle.com/competitions/amex-default-prediction) 
+    - [Notebook](https://github.com/keonho-kim/MyCompetitions/tree/main/Notebooks-By-Competition/2022-Kaggle-AMEX-Default-Classification/Notebook)
 
 ### [Dacon (South Korea)](https://dacon.io/community/forum)
-- [Code Similarity](https://dacon.io/competitions/official/235900/overview/description)
-- [Bok Choy Growth Prediction](https://dacon.io/competitions/official/235961/overview/description)
-- [2022 Tourism Data AI Competition](https://dacon.io/competitions/official/235978/overview/description)
+- Code Similarity
+    - [Description](https://dacon.io/competitions/official/235900/overview/description) 
+    - [Notebook](https://github.com/keonho-kim/MyCompetitions/tree/main/Notebooks-By-Competition/2022-Dacon-Code-Similiarity)
+- Bok Choy Growth Prediction
+    - [Description](https://dacon.io/competitions/official/235961/overview/description) 
+    - [Notebook](https://github.com/keonho-kim/MyCompetitions/tree/main/Notebooks-By-Competition/2022-Dacon-Growth-Regression) 
+- 2022 Tourism Data AI Competition
+    - [Description](https://dacon.io/competitions/official/235978/overview/description)
+    - :alarm_clock: Currently Working
