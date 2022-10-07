@@ -3,7 +3,11 @@
 ## 🏆 Goal
 Classification : Determine whether the given two codes are same or not. 
 
+## 📋 LeaderBoard
 - 19th out of 337 teams
+
+## Data
+- Text (Code written in Python)
 
 ## 🔖 Retrospection
 
@@ -11,7 +15,7 @@ The basic idea is not that hard due to pre-trained model of [CodeBert developed 
 
 In this case, there is nothing to mention about the model - I changed nothing but fine-tuning.
 
-### Dealing with Input
+### Data Prep.
 The major issue of this competition dataset is that the input is written by Japanese programmers, therefore the comments in the file is written in Japaneses. I wish to use it, but translation tools were not good as much as I thought. I had no choice, I had removed all the comments. 
 
 Another issue was variable name, they were not consistent. From my expectation, GraphCodeBert may have superior performance for this reason, well.. it was not. 
