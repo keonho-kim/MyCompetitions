@@ -1,7 +1,7 @@
 # Dacon : Code Similarity
 
 ## 🏆 Goal
-Classification : Determine whether the given two code are same or not. 
+Classification : Determine whether the given two codes are same or not. 
 
 - 19th out of 337 teams
 
@@ -51,6 +51,18 @@ If you are working with `Google Colab` (including pro), this would be the proble
 
 In this case, total train process for 3 epochs takes about 24 hrs, it was horrible. (This why I did not take awesome ensemble methods in this competition.)
 
-Well, now that I think about it, it may better to use larger dataset (I abandoned significant size) and train only one epoch for 24hr is a better idea. 
+Well, now that I think about it, using larger dataset (I abandoned significant size) and train only one epoch for 24hr is a better idea. 
 
 It may.. take.. at least one week to produce one ouput but concrete.
+
+### Comment
+
+The winning team applied ensemble, I might think that they have additional resources - such as personal GPU.
+
+These days, all the competitions requires to use personal setups. This may indicate that the most of participants are enough competitive compared to 3, 4 years.
+
+Colab was enough in the past, but this would be not true I think. This is not a clear idea, however, I think students who want to persue their career in the field of DS are mandated to spend more money on using server or GPU.
+
+During my the master's degree, I was fortunate - I had been allowed to use super computer for free due to my master's project. I hope as many people can have such chance. 
+
+
