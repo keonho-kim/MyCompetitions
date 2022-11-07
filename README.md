@@ -17,7 +17,7 @@ As of AMEX Default prediction of Kaggle in 2022 ([link1](https://www.kaggle.com/
 ### [Kaggle](https://www.kaggle.com/)
 - AMEX DEFAULT PREDICTION
     - [Description](https://www.kaggle.com/competitions/amex-default-prediction) 
-    - [Notebook](https://github.com/keonho-kim/MyCompetitions/tree/main/Notebooks-By-Competition/2022-Kaggle-AMEX-Default-Classification/Notebook)
+    - [Notebook](https://github.com/keonho-kim/MyCompetitions/tree/main/Notebooks-By-Competition/2022-Kaggle-AMEX-Default-Classification)
 
 ### [Dacon (South Korea)](https://dacon.io/community/forum)
 - Code Similarity
