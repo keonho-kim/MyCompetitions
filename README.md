@@ -7,7 +7,7 @@ You can find my previous memos and ideas from each of notebooks.
 
 ## :exclamation: Remarks
 
-As of AMEX Default prediction of Kaggle in 2022 ([link1](https://www.kaggle.com/competitions/amex-default-prediction/discussion/348093), [link2](https://www.kaggle.com/competitions/amex-default-prediction/discussion/348108)), I would not aim to get better LB score. If you visit this repo to get "highly tuned" model for LB score, This would not be the place you looking for - I recommend you to figure it out on "code" section in the Kaggle competition.   
+As of AMEX Default prediction of Kaggle in 2022 ([link1](https://www.kaggle.com/competitions/amex-default-prediction/discussion/348093), [link2](https://www.kaggle.com/competitions/amex-default-prediction/discussion/348108)), I would not aim to get better score. If you visit this repo to get "highly tuned" model for LB score, This would not be the place you looking for - I recommend you to figure it out on "code" section in the Kaggle competition.   
  I would present some of "experimental" ideas with my own curiosity. 
 
 ## Environment 
