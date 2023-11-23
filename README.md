@@ -26,6 +26,3 @@ As of AMEX Default prediction of Kaggle in 2022 ([link1](https://www.kaggle.com/
 - Bok Choy Growth Prediction
     - [Description](https://dacon.io/competitions/official/235961/overview/description) 
     - [Notebook](https://github.com/keonho-kim/MyCompetitions/tree/main/Notebooks-By-Competition/2022-Dacon-Growth-Regression) 
-- 2022 Tourism Data AI Competition
-    - [Description](https://dacon.io/competitions/official/235978/overview/description)
-    - :alarm_clock: Currently Working
