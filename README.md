@@ -1,7 +1,7 @@
 # Competition History
 
 ## Description
-In this repo, I would introduce my past history of data science competition from diverse platforms both in and outside South Korea. 
+In this repo, I would introduce my past history of data science competitions.
 
 You can find my previous memos and ideas from each of notebooks.
 
