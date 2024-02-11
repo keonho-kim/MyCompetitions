@@ -11,7 +11,9 @@ As of AMEX Default prediction of Kaggle in 2022 ([link1](https://www.kaggle.com/
  I would present some of "experimental" ideas with my own curiosity. 
 
 ## Environment 
-***Google Colab Pro***
+
+All Projects were executed with ***Google Colab Pro***
+
 
 ## Competitions
 ### [Kaggle](https://www.kaggle.com/)
